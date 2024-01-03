@@ -1,0 +1,74 @@
+/***************************Header**************************/
+
+.courses-statue{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/***************************Body**************************/
+
+.body{
+    display: flex;
+    flex-direction: row;
+    gap:1rem;
+    margin: 1.5rem auto;
+}
+
+.body .body_img{
+    flex:1;
+}
+.body .body_img img{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.body .body_details{
+    flex:2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+.body .body_details .details_header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;  
+}
+
+.body .body_details .details_header .course_details{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.body .body_details .details_header .rate{
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+}
+
+.body .body_details .details_footer{
+    display: flex;
+    flex-direction: column;
+}
+
+.body .body_details .details_footer .tags{
+    text-align: left;
+}
+.body .body_details .details_footer .tags span{
+    font-weight: bold;
+}
+
+.body .body_details .details_footer .information{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.body .body_details .details_footer .information .date{
+    margin-left: 0.5rem;
+}
+
+/***************************Footer**************************/

@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "IBM Plex Mono", sans-serif;
+  background-color: #f7f7f7;
+}
+
+p {
+  text-align: left;
+}
+
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  h1 {
+    font-weight: 700;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .container {
+    max-width: 50rem;
+    margin: 0 auto;
+  }
+
+.badge {
+  white-space: nowrap;
+  padding: 0.3rem 0.5rem;
+  border-radius: 0.6rem;
+  display: inline-block;
+  font-size: 0.9rem;
+}
+
+.badge--primary {
+  background-color: #dcfce7;
+  color: #15803d;
+}
+.badge--secondary {
+  background-color: #f1f5f9;
+  color: #334155;
+}
+
+.badge--danger {
+  background-color: #ffedd5;
+  color: #c2410c;
+}

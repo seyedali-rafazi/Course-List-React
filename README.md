@@ -1,5 +1,5 @@
 # Course List React App
-## [Live]([https://babeljs.io/](https://course-list-react-three.vercel.app/)) 
+##  [Live](https://course-list-react-three.vercel.app/) 
 ## Introduction
 
 Welcome to the Course List React App! This application is designed to help users manage and organize a list of courses. Whether you are a student, teacher, or anyone involved in education, this app provides a user-friendly interface to view, add, edit, and delete courses.

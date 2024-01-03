@@ -17,6 +17,7 @@ This React app is deployed and can be accessed online. You can visit [Course Lis
 
 - **React:** A JavaScript library for building user interfaces.
 - **React Router:** Enables navigation in a React application with dynamic routing.
+- **Props:** Use props for transpose Data.
 - **State Management:** Utilizes React's state management for handling data within the app.
 - **CSS:** Styling is done using Cascading Style Sheets for a clean and intuitive user interface.
 
@@ -29,5 +30,3 @@ To run this application locally, follow these steps:
    git clone https://github.com/your-username/course-list-react-app.git](https://github.com/seyedali-rafazi/Course-List-React
 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

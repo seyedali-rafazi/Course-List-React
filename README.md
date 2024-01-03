@@ -27,6 +27,6 @@ To run this application locally, follow these steps:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/course-list-react-app.git](https://github.com/seyedali-rafazi/Course-List-React
+   git clone https://github.com/seyedali-rafazi/Course-List-React
 
 
